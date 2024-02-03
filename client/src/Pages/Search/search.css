@@ -1,0 +1,9 @@
+.searchWrite {
+    font-size: 20px;
+    font-style: italic;
+    color: #970f0f;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 15vh; /* Sayfanın yüksekliğini 100 viewport height olarak ayarlama */
+  }
